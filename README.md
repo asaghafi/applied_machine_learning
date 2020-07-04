@@ -13,7 +13,7 @@ Data Science Program Director
 President of AI Global Consulting in Geosciences and Data Science, LLC  
 Vice-President of International Affairs at IFNA  
 
-Week 1: Ch0 Introduction and Review  
+[Week 1: Ch0 Introduction and Review](https://github.com/asaghafi/applied_machine_learning/blob/master/Ch0%20Introduction%20and%20Review.pptx?raw=true)  
 Week 2: Ch1 R/Python Introduction  
 Week 3: Ch2 Simple Linear Regression  
 Week 4: Ch3 Multiple Linear Regression  
