@@ -1,2 +1,3 @@
-# applied_machine_learning
+# Applied Machine Learning
+
 Applied Machine Learning
