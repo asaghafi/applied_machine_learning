@@ -4,14 +4,14 @@ I am sharing my material for Applied Machine Learning (DS 403) course. I strongl
 
 It took me some time to collect and organize the material after teaching the course a number of times. If you are an instructor, feel free to use the them in your course, please don't remove my name and credentials from the first slide, you may add yours. For students, dive in and share if you find the stuff useful.
 
-Have fun!
+Have fun!  
 Abolfazl Saghafi, PhD
 
-Assistant Professor of Statistics
-University of the Sciences
-Data Science Program Director
-President of AI Global Consulting in Geosciences and Data Science, LLC
-Vice-President of International Affairs at IFNA
+Assistant Professor of Statistics  
+University of the Sciences  
+Data Science Program Director  
+President of AI Global Consulting in Geosciences and Data Science, LLC  
+Vice-President of International Affairs at IFNA  
 
 Week 1: Ch0 Introduction and Review  
 Week 2: Ch1 R/Python Introduction  
